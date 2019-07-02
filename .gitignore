@@ -1,0 +1,4 @@
+*.res
+*.in
+output_log
+*.txt
